@@ -4,9 +4,9 @@ Este repositório contém arquivos de códigos em JavaScript como foco na área 
 # Tecnologias utilizadas
 ## Back end
 - JavaScript
-- nodeJs
+- NodeJs
 - React e React Native
-- expo
+- Expo
 
 ## Implantação em produção
 - Banco de Dados: Firebase
